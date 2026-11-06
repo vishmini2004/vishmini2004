@@ -50,13 +50,6 @@
 
 </details>
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vishmini2004&show_icons=true&hide_border=true&theme=default" alt="GitHub stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishmini2004&layout=compact&hide_border=true" alt="Top languages">
-</p>
-
 ---
 
 <p align="center"><i>Always happy to talk embedded systems, control theory or interesting hardware projects.</i></p>
